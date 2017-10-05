@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Simple Vehicle Pack/Demo_scene.unity
+- path: Assets/Demo Scene - Delivery.unity
   isLoaded: 1
   isActive: 1
