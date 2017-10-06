@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza Simulator", "Assembly-CSharp-firstpass.csproj", "{4555AF37-5262-6A61-613C-E29131ADE024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza Simulator", "Assembly-CSharp.csproj", "{1C2ED0E0-6422-4251-DC0E-8C3ECE930F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza Simulator", "Assembly-CSharp-Editor-firstpass.csproj", "{279A6185-50D2-FEB9-3CE7-F7554EBE7905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza Simulator", "Assembly-CSharp-Editor.csproj", "{ECB35C03-D092-0D91-D63F-B9394A134A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4555AF37-5262-6A61-613C-E29131ADE024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4555AF37-5262-6A61-613C-E29131ADE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4555AF37-5262-6A61-613C-E29131ADE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4555AF37-5262-6A61-613C-E29131ADE024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2ED0E0-6422-4251-DC0E-8C3ECE930F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2ED0E0-6422-4251-DC0E-8C3ECE930F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2ED0E0-6422-4251-DC0E-8C3ECE930F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2ED0E0-6422-4251-DC0E-8C3ECE930F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279A6185-50D2-FEB9-3CE7-F7554EBE7905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279A6185-50D2-FEB9-3CE7-F7554EBE7905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279A6185-50D2-FEB9-3CE7-F7554EBE7905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279A6185-50D2-FEB9-3CE7-F7554EBE7905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB35C03-D092-0D91-D63F-B9394A134A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB35C03-D092-0D91-D63F-B9394A134A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB35C03-D092-0D91-D63F-B9394A134A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB35C03-D092-0D91-D63F-B9394A134A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
