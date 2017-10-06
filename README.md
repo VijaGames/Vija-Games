@@ -1,8 +1,15 @@
-# Vija-Games
-CSCE 552 Video Game Project
+## Vija-Games
+30 Minutes or Less
+---------------------------
 
-Ethan Harmon
+# Ethan Harmon
 
-Ronnie Wess
+Game world outside of pizza shop, driving & delivery mechanics, git repo master.
 
-Nicholas Baxter
+# Ronnie Wess
+
+Game world inside of pizza shop, pizza making.
+
+# Nicholas Baxter
+
+Concept art & design, sound effects & dialogue, modeling.
