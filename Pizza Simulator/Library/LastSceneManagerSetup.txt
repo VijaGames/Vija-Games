@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Demo Scene - Delivery.unity
+- path: Assets/Main World.unity
   isLoaded: 1
   isActive: 1
