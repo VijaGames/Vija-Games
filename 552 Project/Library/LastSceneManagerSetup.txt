@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Area730/Stylized city/Scenes/town.unity
+  isLoaded: 1
+  isActive: 1

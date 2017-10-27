@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Pizza Simulator/Assets/Main World.unity
+  isLoaded: 1
+  isActive: 1
