@@ -46,7 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Car Script basic\Script\Dot_Truck_Controller.cs" />
      <Compile Include="Assets\NextHouse1.cs" />
      <Compile Include="Assets\NextHouse2.cs" />
      <Compile Include="Assets\NextHouse3.cs" />
@@ -64,9 +63,6 @@
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractiveCylinder.cs" />
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractivePlane.cs" />
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractivePrism.cs" />
-     <Compile Include="Assets\RoadTool\Scripts\Road.cs" />
-     <Compile Include="Assets\RoadTool\Scripts\RoadMath.cs" />
-     <Compile Include="Assets\RoadTool\Scripts\RoadUtils.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark02.cs" />
@@ -101,17 +97,14 @@
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\WarpTextExample.cs" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
-     <None Include="Assets\RoadTool\Texture\Texture Credits.txt" />
      <None Include="Assets\TextMesh Pro\Fonts\Anton OFL.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
-     <None Include="Assets\RoadTool\README.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <None Include="Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
