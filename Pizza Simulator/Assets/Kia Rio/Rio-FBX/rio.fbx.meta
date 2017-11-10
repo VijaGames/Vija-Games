@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 3f18c5a4c2c5e5d4c9080faf5c7f652d
+timeCreated: 1510289803
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_do0r_Left_G
+    100002: Back_do0r_Left_G 1
+    100004: Back_do0r_Left_G1
+    100006: Back_do0r_Left_G10
+    100008: Back_do0r_Left_G2
+    100010: Back_do0r_Left_G3
+    100012: Back_do0r_Left_G4
+    100014: Back_do0r_Left_G5
+    100016: Back_do0r_Left_G6
+    100018: Back_do0r_Left_G7
+    100020: Back_do0r_Left_G8
+    100022: Back_do0r_Left_G9
+    100024: Back_do0r_Right_G
+    100026: Back_do0r_Right_G 1
+    100028: Back_do0r_Right_G1
+    100030: Back_do0r_Right_G10
+    100032: Back_do0r_Right_G2
+    100034: Back_do0r_Right_G3
+    100036: Back_do0r_Right_G4
+    100038: Back_do0r_Right_G5
+    100040: Back_do0r_Right_G6
+    100042: Back_do0r_Right_G7
+    100044: Back_do0r_Right_G8
+    100046: Back_do0r_Right_G9
+    100048: Body_G1
+    100050: Body_G1 1
+    100052: Body_G1 2
+    100054: Body_G1 3
+    100056: Body_G10
+    100058: Body_G11
+    100060: Body_G12
+    100062: Body_G13
+    100064: Body_G14
+    100066: Body_G15
+    100068: Body_G16
+    100070: Body_G17
+    100072: Body_G18
+    100074: Body_G19
+    100076: Body_G20
+    100078: Body_G21
+    100080: Body_G22
+    100082: Body_G23
+    100084: Body_G24
+    100086: Body_G3
+    100088: Body_G4
+    100090: Body_G5
+    100092: Body_G6
+    100094: Body_G7
+    100096: Body_G8
+    100098: Body_G9
+    100100: Cam
+    100102: door
+    100104: Front_do0r_left_G
+    100106: Front_do0r_left_G 1
+    100108: Front_do0r_left_G1
+    100110: Front_do0r_left_G10
+    100112: Front_do0r_left_G11
+    100114: Front_do0r_left_G12
+    100116: Front_do0r_left_G2
+    100118: Front_do0r_left_G3
+    100120: Front_do0r_left_G4
+    100122: Front_do0r_left_G5
+    100124: Front_do0r_left_G6
+    100126: Front_do0r_left_G7
+    100128: Front_do0r_left_G8
+    100130: Front_do0r_left_G9
+    100132: Front_do0rright_G
+    100134: Front_do0rright_G 1
+    100136: Front_do0rright_G1
+    100138: Front_do0rright_G10
+    100140: Front_do0rright_G11
+    100142: Front_do0rright_G12
+    100144: Front_do0rright_G13
+    100146: Front_do0rright_G14
+    100148: Front_do0rright_G15
+    100150: Front_do0rright_G2
+    100152: Front_do0rright_G4
+    100154: Front_do0rright_G5
+    100156: Front_do0rright_G6
+    100158: Front_do0rright_G7
+    100160: Front_do0rright_G8
+    100162: Front_do0rright_G9
+    100164: Glasses_G
+    100166: Glasses_G 1
+    100168: Glasses_G1
+    100170: Glasses_G2
+    100172: Glasses_G3
+    100174: Interior_Body_G
+    100176: Interior_G
+    100178: Interior_G 1
+    100180: Interior_G 2
+    100182: Interior_G1
+    100184: Interior_G10
+    100186: Interior_G11
+    100188: Interior_G12
+    100190: Interior_G13
+    100192: Interior_G2
+    100194: Interior_G3
+    100196: Interior_G4
+    100198: Interior_G5
+    100200: Interior_G6
+    100202: Interior_G7
+    100204: Interior_G8
+    100206: Interior_G9
+    100208: Lights_G
+    100210: Lights_G 1
+    100212: Lights_G1
+    100214: Lights_G2
+    100216: Lights_G3
+    100218: Lights_G4
+    100220: Lights_G5
+    100222: Other_G
+    100224: pasted__polySurface147
+    100226: pasted__polySurface149
+    100228: pasted__polySurface151
+    100230: polySurface1
+    100232: polySurface2
+    100234: polySurface3
+    100236: polySurface4
+    100238: //RootNode
+    100240: Rio_All_Group
+    100242: wheels
+    100244: wheels 1
+    100246: wheels 2
+    100248: wheels 3
+    100250: wheels 4
+    100252: wheels 5
+    100254: wheels1
+    100256: wheels10
+    100258: wheels11
+    100260: wheels12
+    100262: wheels13
+    100264: wheels14
+    100266: wheels15
+    100268: wheels16
+    100270: wheels17
+    100272: wheels18
+    100274: wheels19
+    100276: wheels2
+    100278: wheels20
+    100280: wheels21
+    100282: wheels22
+    100284: wheels23
+    100286: wheels24
+    100288: wheels25
+    100290: wheels26
+    100292: wheels27
+    100294: wheels28
+    100296: wheels29
+    100298: wheels3
+    100300: wheels30
+    100302: wheels31
+    100304: wheels32
+    100306: wheels33
+    100308: wheels34
+    100310: wheels35
+    100312: wheels4
+    100314: wheels5
+    100316: wheels6
+    100318: wheels7
+    100320: wheels8
+    100322: wheels9
+    400000: Back_do0r_Left_G
+    400002: Back_do0r_Left_G 1
+    400004: Back_do0r_Left_G1
+    400006: Back_do0r_Left_G10
+    400008: Back_do0r_Left_G2
+    400010: Back_do0r_Left_G3
+    400012: Back_do0r_Left_G4
+    400014: Back_do0r_Left_G5
+    400016: Back_do0r_Left_G6
+    400018: Back_do0r_Left_G7
+    400020: Back_do0r_Left_G8
+    400022: Back_do0r_Left_G9
+    400024: Back_do0r_Right_G
+    400026: Back_do0r_Right_G 1
+    400028: Back_do0r_Right_G1
+    400030: Back_do0r_Right_G10
+    400032: Back_do0r_Right_G2
+    400034: Back_do0r_Right_G3
+    400036: Back_do0r_Right_G4
+    400038: Back_do0r_Right_G5
+    400040: Back_do0r_Right_G6
+    400042: Back_do0r_Right_G7
+    400044: Back_do0r_Right_G8
+    400046: Back_do0r_Right_G9
+    400048: Body_G1
+    400050: Body_G1 1
+    400052: Body_G1 2
+    400054: Body_G1 3
+    400056: Body_G10
+    400058: Body_G11
+    400060: Body_G12
+    400062: Body_G13
+    400064: Body_G14
+    400066: Body_G15
+    400068: Body_G16
+    400070: Body_G17
+    400072: Body_G18
+    400074: Body_G19
+    400076: Body_G20
+    400078: Body_G21
+    400080: Body_G22
+    400082: Body_G23
+    400084: Body_G24
+    400086: Body_G3
+    400088: Body_G4
+    400090: Body_G5
+    400092: Body_G6
+    400094: Body_G7
+    400096: Body_G8
+    400098: Body_G9
+    400100: Cam
+    400102: door
+    400104: Front_do0r_left_G
+    400106: Front_do0r_left_G 1
+    400108: Front_do0r_left_G1
+    400110: Front_do0r_left_G10
+    400112: Front_do0r_left_G11
+    400114: Front_do0r_left_G12
+    400116: Front_do0r_left_G2
+    400118: Front_do0r_left_G3
+    400120: Front_do0r_left_G4
+    400122: Front_do0r_left_G5
+    400124: Front_do0r_left_G6
+    400126: Front_do0r_left_G7
+    400128: Front_do0r_left_G8
+    400130: Front_do0r_left_G9
+    400132: Front_do0rright_G
+    400134: Front_do0rright_G 1
+    400136: Front_do0rright_G1
+    400138: Front_do0rright_G10
+    400140: Front_do0rright_G11
+    400142: Front_do0rright_G12
+    400144: Front_do0rright_G13
+    400146: Front_do0rright_G14
+    400148: Front_do0rright_G15
+    400150: Front_do0rright_G2
+    400152: Front_do0rright_G4
+    400154: Front_do0rright_G5
+    400156: Front_do0rright_G6
+    400158: Front_do0rright_G7
+    400160: Front_do0rright_G8
+    400162: Front_do0rright_G9
+    400164: Glasses_G
+    400166: Glasses_G 1
+    400168: Glasses_G1
+    400170: Glasses_G2
+    400172: Glasses_G3
+    400174: Interior_Body_G
+    400176: Interior_G
+    400178: Interior_G 1
+    400180: Interior_G 2
+    400182: Interior_G1
+    400184: Interior_G10
+    400186: Interior_G11
+    400188: Interior_G12
+    400190: Interior_G13
+    400192: Interior_G2
+    400194: Interior_G3
+    400196: Interior_G4
+    400198: Interior_G5
+    400200: Interior_G6
+    400202: Interior_G7
+    400204: Interior_G8
+    400206: Interior_G9
+    400208: Lights_G
+    400210: Lights_G 1
+    400212: Lights_G1
+    400214: Lights_G2
+    400216: Lights_G3
+    400218: Lights_G4
+    400220: Lights_G5
+    400222: Other_G
+    400224: pasted__polySurface147
+    400226: pasted__polySurface149
+    400228: pasted__polySurface151
+    400230: polySurface1
+    400232: polySurface2
+    400234: polySurface3
+    400236: polySurface4
+    400238: //RootNode
+    400240: Rio_All_Group
+    400242: wheels
+    400244: wheels 1
+    400246: wheels 2
+    400248: wheels 3
+    400250: wheels 4
+    400252: wheels 5
+    400254: wheels1
+    400256: wheels10
+    400258: wheels11
+    400260: wheels12
+    400262: wheels13
+    400264: wheels14
+    400266: wheels15
+    400268: wheels16
+    400270: wheels17
+    400272: wheels18
+    400274: wheels19
+    400276: wheels2
+    400278: wheels20
+    400280: wheels21
+    400282: wheels22
+    400284: wheels23
+    400286: wheels24
+    400288: wheels25
+    400290: wheels26
+    400292: wheels27
+    400294: wheels28
+    400296: wheels29
+    400298: wheels3
+    400300: wheels30
+    400302: wheels31
+    400304: wheels32
+    400306: wheels33
+    400308: wheels34
+    400310: wheels35
+    400312: wheels4
+    400314: wheels5
+    400316: wheels6
+    400318: wheels7
+    400320: wheels8
+    400322: wheels9
+    2300000: Back_do0r_Left_G 1
+    2300002: Back_do0r_Left_G1
+    2300004: Back_do0r_Left_G10
+    2300006: Back_do0r_Left_G2
+    2300008: Back_do0r_Left_G3
+    2300010: Back_do0r_Left_G4
+    2300012: Back_do0r_Left_G5
+    2300014: Back_do0r_Left_G6
+    2300016: Back_do0r_Left_G7
+    2300018: Back_do0r_Left_G8
+    2300020: Back_do0r_Left_G9
+    2300022: Back_do0r_Right_G 1
+    2300024: Back_do0r_Right_G1
+    2300026: Back_do0r_Right_G10
+    2300028: Back_do0r_Right_G2
+    2300030: Back_do0r_Right_G3
+    2300032: Back_do0r_Right_G4
+    2300034: Back_do0r_Right_G5
+    2300036: Back_do0r_Right_G6
+    2300038: Back_do0r_Right_G7
+    2300040: Back_do0r_Right_G8
+    2300042: Back_do0r_Right_G9
+    2300044: Body_G1 1
+    2300046: Body_G1 2
+    2300048: Body_G1 3
+    2300050: Body_G10
+    2300052: Body_G11
+    2300054: Body_G12
+    2300056: Body_G13
+    2300058: Body_G14
+    2300060: Body_G15
+    2300062: Body_G16
+    2300064: Body_G17
+    2300066: Body_G18
+    2300068: Body_G19
+    2300070: Body_G20
+    2300072: Body_G21
+    2300074: Body_G22
+    2300076: Body_G23
+    2300078: Body_G24
+    2300080: Body_G3
+    2300082: Body_G4
+    2300084: Body_G5
+    2300086: Body_G6
+    2300088: Body_G7
+    2300090: Body_G9
+    2300092: Front_do0r_left_G 1
+    2300094: Front_do0r_left_G1
+    2300096: Front_do0r_left_G10
+    2300098: Front_do0r_left_G11
+    2300100: Front_do0r_left_G12
+    2300102: Front_do0r_left_G2
+    2300104: Front_do0r_left_G3
+    2300106: Front_do0r_left_G4
+    2300108: Front_do0r_left_G5
+    2300110: Front_do0r_left_G6
+    2300112: Front_do0r_left_G7
+    2300114: Front_do0r_left_G8
+    2300116: Front_do0r_left_G9
+    2300118: Front_do0rright_G 1
+    2300120: Front_do0rright_G1
+    2300122: Front_do0rright_G10
+    2300124: Front_do0rright_G11
+    2300126: Front_do0rright_G12
+    2300128: Front_do0rright_G13
+    2300130: Front_do0rright_G15
+    2300132: Front_do0rright_G2
+    2300134: Front_do0rright_G4
+    2300136: Front_do0rright_G5
+    2300138: Front_do0rright_G6
+    2300140: Front_do0rright_G7
+    2300142: Front_do0rright_G8
+    2300144: Front_do0rright_G9
+    2300146: Glasses_G 1
+    2300148: Glasses_G1
+    2300150: Glasses_G2
+    2300152: Glasses_G3
+    2300154: Interior_G 1
+    2300156: Interior_G 2
+    2300158: Interior_G1
+    2300160: Interior_G10
+    2300162: Interior_G11
+    2300164: Interior_G12
+    2300166: Interior_G13
+    2300168: Interior_G2
+    2300170: Interior_G3
+    2300172: Interior_G4
+    2300174: Interior_G5
+    2300176: Interior_G6
+    2300178: Interior_G7
+    2300180: Interior_G8
+    2300182: Interior_G9
+    2300184: Lights_G 1
+    2300186: Lights_G1
+    2300188: Lights_G2
+    2300190: Lights_G3
+    2300192: Lights_G4
+    2300194: Lights_G5
+    2300196: pasted__polySurface147
+    2300198: pasted__polySurface149
+    2300200: pasted__polySurface151
+    2300202: polySurface1
+    2300204: polySurface2
+    2300206: polySurface3
+    2300208: polySurface4
+    2300210: wheels 2
+    2300212: wheels 3
+    2300214: wheels 4
+    2300216: wheels 5
+    2300218: wheels1
+    2300220: wheels10
+    2300222: wheels11
+    2300224: wheels12
+    2300226: wheels13
+    2300228: wheels14
+    2300230: wheels15
+    2300232: wheels16
+    2300234: wheels17
+    2300236: wheels19
+    2300238: wheels2
+    2300240: wheels20
+    2300242: wheels21
+    2300244: wheels22
+    2300246: wheels23
+    2300248: wheels24
+    2300250: wheels25
+    2300252: wheels26
+    2300254: wheels28
+    2300256: wheels29
+    2300258: wheels3
+    2300260: wheels30
+    2300262: wheels31
+    2300264: wheels32
+    2300266: wheels33
+    2300268: wheels34
+    2300270: wheels35
+    2300272: wheels4
+    2300274: wheels5
+    2300276: wheels6
+    2300278: wheels7
+    2300280: wheels8
+    3300000: Back_do0r_Left_G 1
+    3300002: Back_do0r_Left_G1
+    3300004: Back_do0r_Left_G10
+    3300006: Back_do0r_Left_G2
+    3300008: Back_do0r_Left_G3
+    3300010: Back_do0r_Left_G4
+    3300012: Back_do0r_Left_G5
+    3300014: Back_do0r_Left_G6
+    3300016: Back_do0r_Left_G7
+    3300018: Back_do0r_Left_G8
+    3300020: Back_do0r_Left_G9
+    3300022: Back_do0r_Right_G 1
+    3300024: Back_do0r_Right_G1
+    3300026: Back_do0r_Right_G10
+    3300028: Back_do0r_Right_G2
+    3300030: Back_do0r_Right_G3
+    3300032: Back_do0r_Right_G4
+    3300034: Back_do0r_Right_G5
+    3300036: Back_do0r_Right_G6
+    3300038: Back_do0r_Right_G7
+    3300040: Back_do0r_Right_G8
+    3300042: Back_do0r_Right_G9
+    3300044: Body_G1 1
+    3300046: Body_G1 2
+    3300048: Body_G1 3
+    3300050: Body_G10
+    3300052: Body_G11
+    3300054: Body_G12
+    3300056: Body_G13
+    3300058: Body_G14
+    3300060: Body_G15
+    3300062: Body_G16
+    3300064: Body_G17
+    3300066: Body_G18
+    3300068: Body_G19
+    3300070: Body_G20
+    3300072: Body_G21
+    3300074: Body_G22
+    3300076: Body_G23
+    3300078: Body_G24
+    3300080: Body_G3
+    3300082: Body_G4
+    3300084: Body_G5
+    3300086: Body_G6
+    3300088: Body_G7
+    3300090: Body_G9
+    3300092: Front_do0r_left_G 1
+    3300094: Front_do0r_left_G1
+    3300096: Front_do0r_left_G10
+    3300098: Front_do0r_left_G11
+    3300100: Front_do0r_left_G12
+    3300102: Front_do0r_left_G2
+    3300104: Front_do0r_left_G3
+    3300106: Front_do0r_left_G4
+    3300108: Front_do0r_left_G5
+    3300110: Front_do0r_left_G6
+    3300112: Front_do0r_left_G7
+    3300114: Front_do0r_left_G8
+    3300116: Front_do0r_left_G9
+    3300118: Front_do0rright_G 1
+    3300120: Front_do0rright_G1
+    3300122: Front_do0rright_G10
+    3300124: Front_do0rright_G11
+    3300126: Front_do0rright_G12
+    3300128: Front_do0rright_G13
+    3300130: Front_do0rright_G15
+    3300132: Front_do0rright_G2
+    3300134: Front_do0rright_G4
+    3300136: Front_do0rright_G5
+    3300138: Front_do0rright_G6
+    3300140: Front_do0rright_G7
+    3300142: Front_do0rright_G8
+    3300144: Front_do0rright_G9
+    3300146: Glasses_G 1
+    3300148: Glasses_G1
+    3300150: Glasses_G2
+    3300152: Glasses_G3
+    3300154: Interior_G 1
+    3300156: Interior_G 2
+    3300158: Interior_G1
+    3300160: Interior_G10
+    3300162: Interior_G11
+    3300164: Interior_G12
+    3300166: Interior_G13
+    3300168: Interior_G2
+    3300170: Interior_G3
+    3300172: Interior_G4
+    3300174: Interior_G5
+    3300176: Interior_G6
+    3300178: Interior_G7
+    3300180: Interior_G8
+    3300182: Interior_G9
+    3300184: Lights_G 1
+    3300186: Lights_G1
+    3300188: Lights_G2
+    3300190: Lights_G3
+    3300192: Lights_G4
+    3300194: Lights_G5
+    3300196: pasted__polySurface147
+    3300198: pasted__polySurface149
+    3300200: pasted__polySurface151
+    3300202: polySurface1
+    3300204: polySurface2
+    3300206: polySurface3
+    3300208: polySurface4
+    3300210: wheels 2
+    3300212: wheels 3
+    3300214: wheels 4
+    3300216: wheels 5
+    3300218: wheels1
+    3300220: wheels10
+    3300222: wheels11
+    3300224: wheels12
+    3300226: wheels13
+    3300228: wheels14
+    3300230: wheels15
+    3300232: wheels16
+    3300234: wheels17
+    3300236: wheels19
+    3300238: wheels2
+    3300240: wheels20
+    3300242: wheels21
+    3300244: wheels22
+    3300246: wheels23
+    3300248: wheels24
+    3300250: wheels25
+    3300252: wheels26
+    3300254: wheels28
+    3300256: wheels29
+    3300258: wheels3
+    3300260: wheels30
+    3300262: wheels31
+    3300264: wheels32
+    3300266: wheels33
+    3300268: wheels34
+    3300270: wheels35
+    3300272: wheels4
+    3300274: wheels5
+    3300276: wheels6
+    3300278: wheels7
+    3300280: wheels8
+    4300000: Glasses_G
+    4300002: Glasses_G1
+    4300004: Glasses_G2
+    4300006: Glasses_G3
+    4300008: Interior_G
+    4300010: Interior_G1
+    4300012: Interior_G2
+    4300014: Interior_G3
+    4300016: Interior_G4
+    4300018: Interior_G5
+    4300020: Interior_G6
+    4300022: Interior_G7
+    4300024: Interior_G8
+    4300026: Interior_G9
+    4300028: Interior_G10
+    4300030: Interior_G
+    4300032: Interior_G11
+    4300034: Interior_G12
+    4300036: Interior_G13
+    4300038: Lights_G
+    4300040: Lights_G1
+    4300042: Lights_G3
+    4300044: Lights_G2
+    4300046: Lights_G4
+    4300048: Lights_G5
+    4300050: Body_G1
+    4300052: Body_G3
+    4300054: Body_G4
+    4300056: Body_G5
+    4300058: Body_G6
+    4300060: Body_G7
+    4300062: Body_G1
+    4300064: Body_G9
+    4300066: Body_G10
+    4300068: Body_G11
+    4300070: Body_G12
+    4300072: Body_G13
+    4300074: Body_G14
+    4300076: Body_G15
+    4300078: Body_G16
+    4300080: Body_G17
+    4300082: Body_G1
+    4300084: Body_G18
+    4300086: Body_G19
+    4300088: Body_G20
+    4300090: Body_G21
+    4300092: Body_G22
+    4300094: Body_G23
+    4300096: Body_G24
+    4300098: wheels
+    4300100: wheels1
+    4300102: wheels2
+    4300104: wheels3
+    4300106: wheels4
+    4300108: wheels5
+    4300110: wheels6
+    4300112: wheels7
+    4300114: wheels8
+    4300116: wheels
+    4300118: wheels10
+    4300120: wheels11
+    4300122: wheels12
+    4300124: wheels13
+    4300126: wheels14
+    4300128: wheels15
+    4300130: wheels16
+    4300132: wheels17
+    4300134: wheels
+    4300136: wheels19
+    4300138: wheels20
+    4300140: wheels21
+    4300142: wheels22
+    4300144: wheels23
+    4300146: wheels24
+    4300148: wheels25
+    4300150: wheels26
+    4300152: wheels
+    4300154: wheels28
+    4300156: wheels29
+    4300158: wheels30
+    4300160: wheels31
+    4300162: wheels32
+    4300164: wheels33
+    4300166: wheels34
+    4300168: wheels35
+    4300170: Front_do0r_left_G
+    4300172: Front_do0r_left_G1
+    4300174: Front_do0r_left_G2
+    4300176: Front_do0r_left_G3
+    4300178: Front_do0r_left_G4
+    4300180: Front_do0r_left_G5
+    4300182: Front_do0r_left_G6
+    4300184: Front_do0r_left_G7
+    4300186: Front_do0r_left_G8
+    4300188: Front_do0r_left_G9
+    4300190: Front_do0r_left_G10
+    4300192: Front_do0r_left_G11
+    4300194: Front_do0r_left_G12
+    4300196: pasted__polySurface147
+    4300198: pasted__polySurface149
+    4300200: pasted__polySurface151
+    4300202: Back_do0r_Left_G
+    4300204: Back_do0r_Left_G1
+    4300206: Back_do0r_Left_G2
+    4300208: Back_do0r_Left_G3
+    4300210: Back_do0r_Left_G4
+    4300212: Back_do0r_Left_G5
+    4300214: Back_do0r_Left_G6
+    4300216: Back_do0r_Left_G7
+    4300218: Back_do0r_Left_G8
+    4300220: Back_do0r_Left_G9
+    4300222: Back_do0r_Left_G10
+    4300224: Back_do0r_Right_G
+    4300226: Back_do0r_Right_G1
+    4300228: Back_do0r_Right_G2
+    4300230: Back_do0r_Right_G3
+    4300232: Back_do0r_Right_G4
+    4300234: Back_do0r_Right_G5
+    4300236: Back_do0r_Right_G6
+    4300238: Back_do0r_Right_G7
+    4300240: Back_do0r_Right_G8
+    4300242: Back_do0r_Right_G9
+    4300244: Back_do0r_Right_G10
+    4300246: Front_do0rright_G
+    4300248: Front_do0rright_G1
+    4300250: Front_do0rright_G2
+    4300252: polySurface1
+    4300254: polySurface2
+    4300256: polySurface3
+    4300258: polySurface4
+    4300260: Front_do0rright_G15
+    4300262: Front_do0rright_G4
+    4300264: Front_do0rright_G5
+    4300266: Front_do0rright_G6
+    4300268: Front_do0rright_G7
+    4300270: Front_do0rright_G8
+    4300272: Front_do0rright_G9
+    4300274: Front_do0rright_G10
+    4300276: Front_do0rright_G11
+    4300278: Front_do0rright_G12
+    4300280: Front_do0rright_G13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -63,6 +63,7 @@
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractiveCylinder.cs" />
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractivePlane.cs" />
      <Compile Include="Assets\Parabox Primitives\MonoBehaviours\InteractivePrism.cs" />
+     <Compile Include="Assets\SimpleCarController.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples\Scripts\Benchmark02.cs" />
@@ -105,6 +106,7 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Low Poly Buildings Lite\ReadMe.txt" />
      <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
