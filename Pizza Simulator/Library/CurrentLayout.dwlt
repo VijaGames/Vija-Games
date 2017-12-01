@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 95
+  controlID: 22
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 96
+  controlID: 23
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 97
+  controlID: 73
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -365,9 +365,9 @@ MonoBehaviour:
     height: 450
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b6500000
-    m_LastClickedID: 20662
-    m_ExpandedIDs: 34bdffff1afcffff00000000b650000036580000
+    m_SelectedIDs: ba1b0100
+    m_LastClickedID: 0
+    m_ExpandedIDs: 2abdffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,9 +422,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -21.415495, y: -22.51657, z: -86.73242}
+    m_Target: {x: 269.34857, y: 140.0664, z: 277.584}
     speed: 2
-    m_Value: {x: -21.415495, y: -22.51657, z: -86.73242}
+    m_Value: {x: 269.34857, y: 140.0664, z: 277.584}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -447,13 +447,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.26134413, y: 0.700901, z: -0.3130158, w: -0.58519936}
+    m_Target: {x: -0.31010142, y: -0.34995702, z: 0.12399519, w: -0.87521}
     speed: 2
-    m_Value: {x: -0.26134413, y: 0.700901, z: -0.3130158, w: -0.58519936}
+    m_Value: {x: -0.31010142, y: -0.34995702, z: 0.12399519, w: -0.87521}
   m_Size:
-    m_Target: 46.288296
+    m_Target: 595.46606
     speed: 2
-    m_Value: 46.288296
+    m_Value: 595.46606
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -528,19 +528,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/phoenix/Documents/GitHub/Vija-Games/Pizza Simulator
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 49.882812}
-    m_SelectedIDs: b4390000
-    m_LastClickedID: 14772
-    m_ExpandedIDs: 00000000822700007a280000282c0000342f0000e22f000056340000663900006e390000143f000074430000fc430000cc4600000248000050490000e8490000806b0000826b0000846b0000866b000000ca9a3bffffff7f
+    m_SelectedIDs: 82270000
+    m_LastClickedID: 10114
+    m_ExpandedIDs: 00000000822700007a280000282c0000362f0000e42f00005a3400006a390000723900001e3f00008043000008440000d84600000e4800005c490000f44900009a6b00009c6b00009e6b0000a06b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000822700007a280000282c0000342f0000e22f00005634000010380000663900006e390000a23c0000143f00003c3f000074430000fc430000cc4600000248000050490000e8490000806b0000826b0000846b0000866b0000
+    m_ExpandedIDs: 00000000822700007a280000282c0000362f0000e42f00005a3400006a390000723900001e3f00008043000008440000d84600000e4800005c490000f44900009a6b00009c6b00009e6b0000a06b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -612,7 +612,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -620,7 +620,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 87}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 165
 --- !u!114 &17
