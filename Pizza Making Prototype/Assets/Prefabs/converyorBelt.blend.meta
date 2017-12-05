@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 26b078de6690808489b1c4399c2b6f30
-timeCreated: 1512246622
+guid: 1071aab4e557cc14e94b33df0c61c54c
+timeCreated: 1512454317
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Plane
+    4300000: ConveyorBelt
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -39,7 +39,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.2
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
